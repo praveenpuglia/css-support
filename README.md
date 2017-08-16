@@ -13,9 +13,9 @@ CSS Support solves those problems by providing keeping the browser support data 
 Currently my focus is on gathering data and putting them together in a way that's consumable.
 
 ## TODO
-- [ ] Get a list of all standard properties.
-- [ ] Get a list of all standard `@` rules.
-- [ ] Get a list of all standard selectors.
+- [x] Get a list of all standard properties.
+- [x] Get a list of all standard `@` rules.
+- [x] Get a list of all standard selectors.
 - [ ] Get a list of standard values for a property.
 - [ ] Get browser support info for each property.
 - [ ] Get browser support info for each value in each property.
