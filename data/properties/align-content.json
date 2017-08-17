@@ -1,0 +1,107 @@
+{
+  "name": "align-content",
+  "support": {
+    "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+    "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+  },
+  "values": [
+    {
+      "name": "center",
+      "support": {
+        "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+        "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+      }
+    },
+    {
+      "name": "start",
+      "support": {
+        "desktop": "chrome-none|edge-none|firefox-all|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-none|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "end",
+      "support": {
+        "desktop": "chrome-none|edge-none|firefox-all|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-none|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "flex-start",
+      "support": {
+        "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+        "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+      }
+    },
+    {
+      "name": "flex-end",
+      "support": {
+        "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+        "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+      }
+    },
+    {
+      "name": "left",
+      "support": {
+        "desktop": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "right",
+      "support": {
+        "desktop": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "baseline",
+      "support": {
+        "desktop": "android-57|chrome-57|edge-none|firefox-none|ie-none|opera-44|safari-none",
+        "mobile": "android-57|chrome-57|edge-none|firefox-none|ie-none|opera-44|safari-none"
+      }
+    },
+    {
+      "name": "first baseline",
+      "support": {
+        "desktop": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "last baseline",
+      "support": {
+        "desktop": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "space-between",
+      "support": {
+        "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+        "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+      }
+    },
+    {
+      "name": "space-around",
+      "support": {
+        "desktop": "chrome-29|edge-all|firefox-28|ie-11|opera-12.10|safari-9.0",
+        "mobile": "android-4.4|chrome-all|edge-all|firefox-28|ie-11|opera-12.10|safari-9.2"
+      }
+    },
+    {
+      "name": "space-evenly",
+      "support": {
+        "desktop": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none",
+        "mobile": "android-none|chrome-none|edge-none|firefox-52|ie-none|opera-none|safari-none"
+      }
+    },
+    {
+      "name": "stretch",
+      "support": {
+        "desktop": "android-57|chrome-57|edge-none|firefox-52|ie-none|opera-44|safari-none",
+        "mobile": "android-57|chrome-57|edge-none|firefox-52|ie-none|opera-44|safari-none"
+      }
+    }
+  ]
+}

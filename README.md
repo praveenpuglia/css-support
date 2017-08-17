@@ -11,6 +11,7 @@ CSS Support solves those problems by providing keeping the browser support data 
 ## Current Focus
 
 Currently my focus is on gathering data and putting them together in a way that's consumable.
+Also, the support information only talks about when a property or value landed in a stable release. 
 
 ## TODO
 - [x] Get a list of all standard properties.
@@ -21,5 +22,7 @@ Currently my focus is on gathering data and putting them together in a way that'
 - [ ] Get browser support info for each value in each property.
 - [ ] Put properties, `@` rules, selectors in their own sections.
 - [ ] Have a build process to merge browser support info together.
+- [ ] Create a web page where all this can be found and filtered thorough.
+    - Sample Rendering of a property data. - http://jsbin.com/caximeq/12/edit?html,output
 
 
